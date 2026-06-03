@@ -27,12 +27,12 @@ We made some minor changes to the capacitive sensor settings that optimizes the 
 
 ### Required Arduino Libraries:
 
--Adafruit_GFX.h
--RTClib.h
--SdFat.h
--Adafruit_MPR121.h
--Adafruit_ILI9341.h
--Adafruit_FT6206.h
+- Adafruit_GFX.h
+- RTClib.h
+- SdFat.h
+- Adafruit_MPR121.h
+- Adafruit_ILI9341.h
+- Adafruit_FT6206.h
 
 ---------------------------
 
