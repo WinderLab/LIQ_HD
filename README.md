@@ -21,7 +21,7 @@ We made some minor changes to the capacitive sensor settings that optimizes the 
 - Arduino code for LIQ HD running off an Arduino Mega
 - Arduino code for LIQ HD running off an Adafruit Grand Central (significantly faster processor speed. NOT FULLY TESTED.)
 - 3D models for all required 3D-printed components in various file formats (STL, STEP, SHAPR)
-- Step-by-step build instructions and video tutorial can be found on the Wiki page
+- Step-by-step build instructions and video tutorial can be found on the [Wiki page](https://github.com/WinderLab/LIQ_HD/wiki/LIQ-HD-Step-by-Step-Tutorial)
 
 ----------------------------
 
